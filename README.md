@@ -11,4 +11,4 @@ Student Info
 
 * Student Name: Nguyen Anh Quan
 * Student ID: BI12-365
-* Student Group ID: Not yet
+* Student Group ID: 2
