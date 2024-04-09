@@ -1,0 +1,10 @@
+pear: 100053
+banana: 99907
+strawberry: 100093
+apple: 100533
+melon: 99711
+kiwi: 100326
+grape: 99570
+blueberry: 100239
+orange: 99462
+peach: 100106
